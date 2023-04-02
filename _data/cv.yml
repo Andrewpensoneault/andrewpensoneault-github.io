@@ -31,10 +31,15 @@
       institution: Iowa Flood Center, University of Iowa, Iowa City, IA
       year: 2018 - 2023
       description:
-        - As a Graduate Research Assistant at the University of Iowa in the Iowa Flood Center, I have been responsible for developing and implementing advanced Data Assimilation algorithms to improve flood forecasting models. My work involves obtaining and analyzing data from stage sensors, designing experiments to verify algorithm results, and visualizing relevant data to aid in decision-making. In addition, I have successfully utilized High-Performance Computing (HPC) resources to coordinate simultaneous parallel evaluations of the hydrologic model. This has significantly reduced the computational time required for the analysis and has enabled more accurate and efficient forecasting. I have also prepared technical reports and presentations for non-mathematician audiences and compiled this work into academic papers. Through this work, I have honed my skills in data analysis, experimental design, and effective communication of technical results.As a Graduate Research Assistant at the University of Iowa in the Iowa Flood Center, I have been responsible for developing and implementing advanced Data Assimilation algorithms to improve flood forecasting models. My work involves obtaining and analyzing data from stage sensors, designing experiments to verify algorithm results, and visualizing relevant data to aid in decision-making. In addition, I have successfully utilized High-Performance Computing (HPC) resources to coordinate simultaneous parallel evaluations of the hydrologic model. This has significantly reduced the computational time required for the analysis and has enabled more accurate and efficient forecasting. I have also prepared technical reports and presentations for non-mathematician audiences and compiled this work into academic papers. Through this work, I have honed my skills in data analysis, experimental design, and effective communication of technical results.
+        - Developed and implemented advanced Data Assimilation algorithms to improve flood forecasting models
+        - Designed experiments to verify algorithm results
+        - Visualized relevant data to aid in decision-making
+        - Utilized High-Performance Computing (HPC) resources for efficient hydrologic model evaluations
+        - Prepared technical reports and presentations for non-mathematician audiences
+        - Compiled work into academic papers
         - title: Skills
           contents:
-            - Bayesian Neural Networks 
+            - Communication
             - Data Visualization
             - C
             - Data Assimilation
@@ -42,20 +47,52 @@
             - Parallel Computing
             - Uncertainty Quantification
             - Python
+    - title: Given Associate Intern
+      institution: Argonne National Lab, Lemont, IL
+      year: 2019
+      description:
+        - Developed variational inference-based neural network methods for efficient sampling from unnormalized posterior distributions
+        - Collaborated with a team of research scientists on method design and implementation
+        - Utilized TensorFlow framework in Python for model development
+        - Enhanced skills in machine learning, specifically probabilistic modeling and inference
+        - Delivered multiple presentations showcasing research findings
+        - title: Skills
+          contents: 
+            - Fortran
+            - MATLAB
+            - Data analysis
+            - Scientific writing
+            - High-Performance Computing
+            - Data Assimilation
+    - title: HPC Summer Intern
+      institution: RIKEN CCS, Kobe, Japan
+      year: 2018
+      description:
+        - Investigated Data Assimilation in High-Performance Computing environments, focusing on the Local Ensemble Transform Kalman Filter
+        - Co-authored publication on weight structure of the filter using the SPEEDY (Simplified Parameterizations, Primitive Equation Dynamics) atmospheric model
+        - Gained valuable skills in numerical modeling, data analysis, and scientific writing
+        - title: Skills
+          contents: 
+            - Scientific Writing
+            - Pedagogy
+            - Collaboration
+            - Tutoring
+            - Curriculum development
     - title: Graduate Teaching Assistant
       institution: Department of Mathematics, University of Iowa, Iowa City, IA
       year: 2016-2018
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Given Associate Intern
-      institution: Argonne National Lab, Lemont, IL
-      year: 2019
-
-    - title: HPC Summer Intern
-      institution: RIKEN CCS, Kobe, Japan
-      year: 2018
+        - Led discussion sections and graded assignments for undergraduate-level mathematical courses (calculus, algebra)
+        - Provided individual tutoring in the Math Tutorial Lab
+        - Collaborated with colleagues to develop instructional materials and discuss teaching best practices
+        - Enhanced skills in effective communication, collaboration, and pedagogy, contributing to professional growth
+        - title: Skills
+          contents: 
+            - Communication
+            - Pedagogy
+            - Collaboration
+            - Tutoring
+            - Curriculum development
 
 - title: Academic Interests
   type: nested_list
