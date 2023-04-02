@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://andrewpensoneault.github.io//sitemap.xml
+Sitemap: https://andrewpensoneault.github.io/sitemap.xml
