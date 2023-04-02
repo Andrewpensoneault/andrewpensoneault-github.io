@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   address: >
     <p>25N</p>
-    <p>MacLean Hallt</p>
+    <p>MacLean Hall</p>
     <p>Iowa City, IA 52240</p>
 
 news: true  # includes a list of news items
