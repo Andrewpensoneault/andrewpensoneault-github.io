@@ -14,14 +14,9 @@
     - title: PhD. Candidate in Applied Mathematical and Computational Sciences
       institution: University of Iowa, Iowa City, Iowa
       year: 2023
-      description:
-        - title: Advisor
-          - Xueyu Zhu
-        - title: Thesis
-          - Efficient Data-Driven Inference and Uncertainty Quantification for Surrogate Modeling and Inverse Problems
     - title: B.S in Applied Mathematics
       institution: SUNY Geneseo, Geneseo, NY
-      year: 2013
+      year: 2016
 
 - title: Experience
   type: time_table
@@ -96,15 +91,9 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Efficient Bayesian Machine Learning
+    - title: Physics Informed and Bayesian Machine Learning
       items:
-        - Description 1.
-        - Description 2.
+        - Ensemble Kalman Inversion-based methods for Efficient Bayesian Inference for Neural Networks
+        - Probabilistically Constrained Gaussian Process Regression
     - title: Uncertainty Quantification
-      items: 
-        - Description 1.
-        - Description 2.
     - title: Data Assimilation
-      items: 
-        - Description 1.
-        - Description 2.
