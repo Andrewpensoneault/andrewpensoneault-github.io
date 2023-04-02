@@ -17,10 +17,6 @@
       description:
         - Description 1.
         - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: B.S in Applied Mathematics
       institution: SUNY Geneseo, Geneseo, NY
       year: 2013
@@ -35,12 +31,17 @@
       institution: Iowa Flood Center, University of Iowa, Iowa City, IA
       year: 2018 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - As a Graduate Research Assistant at the University of Iowa in the Iowa Flood Center, I have been responsible for developing and implementing advanced Data Assimilation algorithms to improve flood forecasting models. My work involves obtaining and analyzing data from stage sensors, designing experiments to verify algorithm results, and visualizing relevant data to aid in decision-making. In addition, I have successfully utilized High-Performance Computing (HPC) resources to coordinate simultaneous parallel evaluations of the hydrologic model. This has significantly reduced the computational time required for the analysis and has enabled more accurate and efficient forecasting. I have also prepared technical reports and presentations for non-mathematician audiences and compiled this work into academic papers. Through this work, I have honed my skills in data analysis, experimental design, and effective communication of technical results.As a Graduate Research Assistant at the University of Iowa in the Iowa Flood Center, I have been responsible for developing and implementing advanced Data Assimilation algorithms to improve flood forecasting models. My work involves obtaining and analyzing data from stage sensors, designing experiments to verify algorithm results, and visualizing relevant data to aid in decision-making. In addition, I have successfully utilized High-Performance Computing (HPC) resources to coordinate simultaneous parallel evaluations of the hydrologic model. This has significantly reduced the computational time required for the analysis and has enabled more accurate and efficient forecasting. I have also prepared technical reports and presentations for non-mathematician audiences and compiled this work into academic papers. Through this work, I have honed my skills in data analysis, experimental design, and effective communication of technical results.
+        - title: Skills
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Bayesian Neural Networks 
+            - Data Visualization
+            - C
+            - Data Assimilation
+            - High Performance Computing (HPC) 
+            - Parallel Computing
+            - Uncertainty Quantification
+            - Python
     - title: Graduate Teaching Assistant
       institution: Department of Mathematics, University of Iowa, Iowa City, IA
       year: 2016-2018
