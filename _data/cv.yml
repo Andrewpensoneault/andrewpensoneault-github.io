@@ -15,14 +15,13 @@
       institution: University of Iowa, Iowa City, Iowa
       year: 2023
       description:
-        - Advisor: Xueyu Zhu
-        - Thesis: Efficient Data-Driven Inference and Uncertainty Quantification for Surrogate Modeling and Inverse Problems
+        - title: Advisor
+          - Xueyu Zhu
+        - title: Thesis
+          - Efficient Data-Driven Inference and Uncertainty Quantification for Surrogate Modeling and Inverse Problems
     - title: B.S in Applied Mathematics
       institution: SUNY Geneseo, Geneseo, NY
       year: 2013
-      description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
